@@ -1,16 +1,15 @@
 Hey I am Shruthi, the Unconventional Mindset:
 MBA | AI Strategy | Finance | Consulting
-↓  
-Research Interests
+
+Research Interests:
 AI • FinTech • Emerging Technologies • Strategy • Organizational Behaviour
-↓
-Projects
+
+Projects:
 AI Financial Health Analyzer • FinTech Strategy • Financial Analytics • AI Business Solutions
-↓
-Skills
+
+Skills:
 Python • SQL • Power BI • Excel • GenAI • Financial Modelling
-↓
-Research / Publications / Case Studies**
-↓
-Let's Connect
+
+for Research / Publications / Case Studies:
+Let's Connect.
 
