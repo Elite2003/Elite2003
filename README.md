@@ -1,16 +1,16 @@
-### Hi there 👋
+Hey I am Shruthi, the Unconventional Mindset:
+MBA | AI Strategy | Finance | Consulting
+↓  
+Research Interests
+AI • FinTech • Emerging Technologies • Strategy • Organizational Behaviour
+↓
+Projects
+AI Financial Health Analyzer • FinTech Strategy • Financial Analytics • AI Business Solutions
+↓
+Skills
+Python • SQL • Power BI • Excel • GenAI • Financial Modelling
+↓
+Research / Publications / Case Studies**
+↓
+Let's Connect
 
-<!--
-**Elite2003/Elite2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
